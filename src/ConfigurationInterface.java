@@ -1,0 +1,4 @@
+interface ConfigurationInterface 
+{
+  boolean[][] loadConfiguration();
+}

@@ -1,0 +1,4 @@
+Current-Version: 1.0
+Created-By: Marco 'RootkitNeo' C.
+Main-Class: GameOfLife
+
